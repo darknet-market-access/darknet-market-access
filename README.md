@@ -122,3 +122,5 @@ Always verify.
 
 Accessing darknet markets requires diligence and security. Always verify the .onion links. Remember that engaging in these markets may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
+
+Update:  Friday 04 July 2025
